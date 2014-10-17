@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sda:home|Door43 (sda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sda|d43-sda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sda/archive/master.zip|d43-sda.zip]]
+
+**Recent Changes**
+{{changes>ns = sda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sda|Ethnologue data]]
+
