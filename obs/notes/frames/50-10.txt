@@ -9,7 +9,7 @@
   * **[[:sda:obe:kt:satan]]**
   * **[[:sda:obe:kt:suffer]]**
   * **[[:sda:obe:kt:righteous]]**
-  * **[[:sda:obe:other:kingdom-of-god]]**
+  * **[[:sda:obe:kt:kingdomofgod]]**
   * **[[:sda:obe:kt:godthefather]]**
 ===== Translation Notes: =====
 
