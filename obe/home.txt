@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords -Toraja ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in OBE Directory: ====
 
-  * [[:sda:obe:kt:home|Key Terms]]
-  * [[:sda:obe:other:home|Other Terms]]
+  * [[:sda:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:sda:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
